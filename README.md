@@ -121,7 +121,7 @@ http://localhost:5173
 ## Le API sono esposte con prefisso:
 
 ```
-/api/\*
+/api/
 
 ```
 
